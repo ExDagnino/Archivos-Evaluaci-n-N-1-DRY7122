@@ -1,0 +1,5 @@
+PrimerNombre= input (" ¿Cúal es tu primer nombre?")
+Apellido= input ("¿Cúal es tu apellido?")
+Sede= input ("¿ Cual es tu sede ?")
+CodigoSec= input ("¿Cúal es tu sección?")
+print("Hola "+ PrimerNombre, Apellido + " tu sede es " + Sede + " Y eres de la sección " + CodigoSec)
